@@ -1,0 +1,10 @@
+A greedy algorithm is a type of optimization algorithm that makes locally optimal 
+choices at each step with the goal of finding a globally optimal solution. 
+It operates on the principle of “taking the best option now” without considering 
+the long-term consequences.
+
+Steps to create a Greedy algorithm
+1- Define the problem: Clearly state the problem to be solved and the objective to be optimized.
+2- Identify the greedy choice: Determine the locally optimal choice at each step based on the current state.
+3- Make the greedy choice: Select the greedy choice and update the current state.
+4- Repeat: Continue making greedy choices until a solution is reached.
